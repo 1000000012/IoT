@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1> IBRAHIM ALMULIM </h1>
+
+
+
+
+<style>
+h1 {
+
+  text-align: center;
+}
+body {
+background-color: black;
+  color: red;
+}
+
+h1 {
+  color: green;
+}
+body { background-color:lightblue;}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+ 
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+   font-size: 36px;
+  border: 2px solid;
+}
+
+.button1:hover {
+  background-color: BLUE;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+   font-size: 19px;
+  text-align:left;
+  border: 1px solid ;
+}
+
+.button2:hover {
+  background-color: ;
+  color: white;
+}
+
+.button3 {
+  background-color: white; 
+  color: RED; 
+  text-align:center;
+  
+  font-size:73px ;
+  border: 1px solid ;
+}
+
+.button3:hover {
+  background-color:RED ;
+  color: white;
+}
+.button4 {
+  background-color: ; 
+  text-align:right;
+  color: black; 
+   font-size: 19px;
+  border: 1px solid ;
+}
+
+.button4:hover {
+  background-color:BLACK ;
+  color: white;
+}
+.button5 {
+  background-color: white; 
+  color: black; 
+   font-size: 36px;
+  border: 1px solid ;
+}
+
+.button5:hover {
+  background-color:BLUE ;
+  color: white;
+}
+</style>
+</head>
+<body>
+<p><h3>
+Task one in major internet of things 
+</h3></p>
+ 
+&emsp;&emsp;
+&emsp;&emsp;
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<button class="button button1">Forwards</button>
+<button class="button button2">Left</button>
+<button class="button button3">STOP</button>
+<button class="button button4">Right</button>
+<button class="button button5">Backwards</button>
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<p><a href="https://s-m.com.sa/">Visit SMART METHODES </a></p>
+</body>
+</html>
